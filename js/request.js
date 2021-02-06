@@ -1,4 +1,4 @@
-base_url = "https://e0e05e41ff63.ngrok.io/";
+base_url = "https://assests-seva.herokuapp.com/";
 
 $(document).on({
     ajaxStart: function() { $("body").addClass("loading");    },
